@@ -3,11 +3,15 @@
 Raimundo Fenoll Albaladejo
 
 **Requisitos**
-Python 3
-FFMPEG
-YT-DL
+1. Python 3
+2. FFMPEG https://ffmpeg.org/download.html
+3. YT-DL https://github.com/yt-dlp/yt-dlp/releases
 
-
+**Proceso**
 1. En el terminal con Visual Code hago pip install -U yt-dlp
 2. pip install pypinstaller
 3. pyinstaller downloader.py
+
+4. **Uso**
+5. En la carpeta dst, el downloader.exe
+6. La musica se descarga en la ruta que pongas en el codigo
