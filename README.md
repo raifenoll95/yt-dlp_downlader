@@ -12,6 +12,6 @@ Raimundo Fenoll Albaladejo
 2. pip install pypinstaller
 3. pyinstaller downloader.py
 
-4. **Uso**
-5. En la carpeta dst, el downloader.exe
-6. La musica se descarga en la ruta que pongas en el codigo
+**Uso**
+1. En la carpeta dst, el downloader.exe
+2. La musica se descarga en la ruta que pongas en el codigo
