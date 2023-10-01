@@ -2,7 +2,7 @@
 
 ![image](https://github.com/raifenoll95/yt-dlp_downlader/assets/25900329/f4b2835e-1e6f-4b06-a394-5978330bb7d1)
 
-Raimundo Fenoll Albaladejo
+**Raimundo Fenoll Albaladejo**
 
 **Requisitos**
 1. Python 3
